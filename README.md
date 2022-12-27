@@ -1,2 +1,2 @@
 # git-test-html
-Testing git with excercie html from Odin
+Testing git with html exercises from Odin
